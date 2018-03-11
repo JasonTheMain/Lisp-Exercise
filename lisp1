@@ -1,0 +1,3 @@
+(defun search(number, 'numlist)
+
+    )
