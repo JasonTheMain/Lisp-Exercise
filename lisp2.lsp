@@ -5,6 +5,7 @@
 ;;       numlist – a list of numbers
 ;;  assumptions:
 ;;       1. all numbers
+;;       2. may be null
 
 (defun div5('numlist)
   (cond
